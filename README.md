@@ -11,3 +11,4 @@
 完整内容：[中文版](AGENTS.md) · [English version](AGENTS.en.md)。
 
 如果你也有类似的习惯，可以拿去参考，按自己的项目删改。使用英文版时，把 `AGENTS.en.md` 复制或重命名为 `AGENTS.md`。项目里已经有约定的话，把需要的部分合进去就好。
+<!-- verified by Webuddy E2E -->
